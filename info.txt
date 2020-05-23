@@ -1,0 +1,9 @@
+Search for a track
+    https://developer.spotify.com/documentation/web-api/reference/search/search/
+
+if user ID is added on the database, ignore request
+
+Else
+    Add the first result to THE playlist
+        https://developer.spotify.com/documentation/web-api/reference/playlists/add-tracks-to-playlist/
+
